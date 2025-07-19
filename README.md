@@ -2,42 +2,31 @@
 
 *(Ahoj means “hi” in Slovak 🇸🇰)*
 
-I’m a web developer from **Slovakia** who loves building fast, modern websites with **Next.js ⚛️**, **React ⚛️**, **Tailwind CSS 🎨**, **Framer Motion 🎞️**, **Svelte 🔥**, and **MongoDB 🍃**.
+
+I’m a web developer from Slovakia who enjoys building modern websites.
 
 I’m not an expert — just an **amateur** learning new stuff every day and having fun with codeeeeee! 🚀
 
----
 
 ## 📌 About Me
 
 - 🇸🇰 From Slovakia  
-- 🧩 Love: Next.js, React, Tailwind CSS, Framer Motion, Svelte, MongoDB  
+- 🧩 Love: Next.js, React, Tailwind CSS, Motion, Svelte, MongoDB  
 - 📚 Currently learning: More React, Next.js, MySQL databases, and object storing  
-- 👦 I am 16 years old  
-- ✨ Fun fact: “Ahoj” is Slovak for *hi* — now you know!
+- 😎 I am 16 years old 
 
----
+
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,next,react,tailwind,svelte,mongodb)](https://skillicons.dev)
 
----
 
 ## 🌐 Projects & Website
 
 Check out my projects and *(sort of)* portfolio on my website:  
 [iampitrproject.xyz](https://iampitrproject.xyz)
 
----
 
 **Thanks for stopping by!** 👋  
 
