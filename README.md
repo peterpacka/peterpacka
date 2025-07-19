@@ -40,5 +40,4 @@ Check out my projects and *(sort of)* portfolio on my website:
 ---
 
 **Thanks for stopping by!** 👋  
-**Let’s build something cool together!**
 
