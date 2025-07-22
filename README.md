@@ -24,7 +24,10 @@ I’m not an expert — just an **amateur** learning new stuff every day and hav
 
 ## 🌐 Projects & Website
 
-Check out my projects and *(sort of)* portfolio on my website:  
+Portfolio Website:
+[iampitr.dev](https://iampitr.dev)
+
+Check out my projects and *(sort of)* portfolio on my other website:  
 [iampitrproject.xyz](https://iampitrproject.xyz)
 
 
