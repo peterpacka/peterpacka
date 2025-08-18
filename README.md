@@ -19,7 +19,7 @@ I’m not an expert — just an **amateur** learning new stuff every day and hav
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,next,react,tailwind,svelte,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,next,react,tailwind,svelte,mongodb,prisma)](https://skillicons.dev)
 
 
 ## 🌐 Projects & Website
