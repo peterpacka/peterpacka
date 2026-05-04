@@ -1,6 +1,6 @@
 # Ahoj! 
 
-*(Ahoj means “hi” in Slovak 🇸🇰)*
+*(Ahoj means “hi” in Slovak)*
 
 
 I’m a web developer from Slovakia who enjoys building websites.
@@ -12,10 +12,10 @@ Just an **amateur** learning new stuff every day and having fun with **codeeeeee
 
 ## About Me
 
-- 🇸🇰 From Slovakia  
-- 🧩 Love: Next.js, React, Tailwind CSS, Motion, Svelte, MongoDB  
-- 📚 Currently learning: More React, Next.js, MySQL databases, and object storing  
-- 😎 I am 17 years old 
+- From Slovakia  
+- Love: Next.js, React, Tailwind CSS, Motion, Svelte, MongoDB  
+- Currently learning: More React, Next.js, MySQL databases, and object storing  
+- I am 17 years old 
 
 
 
