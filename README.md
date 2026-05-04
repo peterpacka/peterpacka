@@ -5,7 +5,9 @@
 
 I’m a web developer from Slovakia who enjoys building modern websites.
 
-I’m not an expert — just an **amateur** learning new stuff every day and having fun with codeeeeee! 🚀
+
+I’m not an expert. 
+Just an **amateur** learning new stuff every day and having fun with codeeeeee! 🚀
 
 
 ## 📌 About Me
@@ -13,7 +15,7 @@ I’m not an expert — just an **amateur** learning new stuff every day and hav
 - 🇸🇰 From Slovakia  
 - 🧩 Love: Next.js, React, Tailwind CSS, Motion, Svelte, MongoDB  
 - 📚 Currently learning: More React, Next.js, MySQL databases, and object storing  
-- 😎 I am 16 years old 
+- 😎 I am 17 years old 
 
 
 
@@ -26,9 +28,6 @@ I’m not an expert — just an **amateur** learning new stuff every day and hav
 
 Portfolio Website:
 [iampitr.dev](https://iampitr.dev)
-
-Check out my projects and *(sort of)* portfolio on my other website:  
-[iampitrproject.xyz](https://iampitrproject.xyz)
 
 
 **Thanks for stopping by!** 👋  
