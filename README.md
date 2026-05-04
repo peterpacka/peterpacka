@@ -1,16 +1,16 @@
-# Ahoj! 👋
+# Ahoj! 
 
 *(Ahoj means “hi” in Slovak 🇸🇰)*
 
 
-I’m a web developer from Slovakia who enjoys building modern websites.
+I’m a web developer from Slovakia who enjoys building websites.
 
 
 I’m not an expert. 
-Just an **amateur** learning new stuff every day and having fun with codeeeeee! 🚀
+Just an **amateur** learning new stuff every day and having fun with **codeeeeee**! 🚀
 
 
-## 📌 About Me
+## About Me
 
 - 🇸🇰 From Slovakia  
 - 🧩 Love: Next.js, React, Tailwind CSS, Motion, Svelte, MongoDB  
@@ -19,12 +19,12 @@ Just an **amateur** learning new stuff every day and having fun with codeeeeee! 
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,lua,next,react,tailwind,svelte,mongodb,prisma)](https://skillicons.dev)
 
 
-## 🌐 Projects & Website
+## Website
 
 Portfolio Website:
 [iampitr.dev](https://iampitr.dev)
